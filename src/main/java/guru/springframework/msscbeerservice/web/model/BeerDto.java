@@ -14,7 +14,7 @@ import java.time.OffsetDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Beerdto {
+public class BeerDto {
     private UUID uuid;
     private Integer version;
 

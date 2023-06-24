@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsscBeerServiceApplication<mssc-beer-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "guru.springframework.msscbeerservice.MsscBeerServiceApplication",
+            "projectName": "mssc-beer-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
